@@ -22,7 +22,7 @@ export default function StreamPage() {
 
   return (
     <main style={{ padding: 24 }}>
-      <h1>GPT sim</h1>
+      <h2>GPT sim</h2>
       <button
         className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded mt-1"
         onClick={start}
